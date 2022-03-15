@@ -1,5 +1,6 @@
 # ProgramminLanguageDesign
 Project for Formal Languages, Automata and Compilers
+Developed as part of a team of 2.
 
 It is an original programming language developed using YACC analyzer and LEX.
 The language includes 
